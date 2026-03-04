@@ -9,7 +9,7 @@ body {
     background-color:#001f24; /* Dark Teal/Black */
     color: white;
     text-align: center;
-    padding: 30px 0;
+    padding: 10px 0;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 }
 
 .sidebar { flex: 2; }
-.main-article { flex: 2; }
+.main-article { flex: 4; }
 .pictorial-news { flex: 1; }
 
 h3 {
