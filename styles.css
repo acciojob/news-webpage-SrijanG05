@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+#tcon{
+	background-color:	#F0F0F0;
+	border:solid black;
+}
+#heading{
+	text-align:center;
+	background-color:grey;
+	height:80px;
+	font-size:20px;
+}
+#subcon{
+	background-color:#F5DEB3;
+	 display: flex;
+    justify-content: center;
+	align-items:flex-start;
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+#img{
+    height:80px;
+	width:80px;
+}
+#con1{
+	background-color:#F5F5F5;
+	border:solid black;
+}
+#con2{
+	background-color:#F5F5F5;
+	border: solid black;
+}
+#con3{
+	background-color:#F5F5F5;
+	border: solid black;
+	 display:flex;
+    flex-direction:column;
+}
+
